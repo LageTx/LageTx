@@ -1,4 +1,4 @@
-## Olá sou o Matheus Lage
+## Olá, sou o Matheus Lage
 
 <!---->
 - Atualmente cursando Análise e Desenvolvimento de Sistemas na Pontifícia Universidade Católica de Minas Gerais 2/5 períodos.
