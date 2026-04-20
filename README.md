@@ -12,4 +12,4 @@ Banco de Dados: MySQL.
 Ferramentas e Metodologias: Git, GitHub e SCRUM.
 
 <!---->
-LinkedIn: https://www.linkedin.com/in/matheuslagesilva/
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/matheuslagesilva/)
