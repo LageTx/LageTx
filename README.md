@@ -7,7 +7,7 @@ Front-end: JavaScript, TypeScript, React, Redux, HTML e CSS.
 <!---->
 Back-end: C#, .NET, Node.js, MVC e APIs REST.
 <!---->
-Banco de Dados: MySQL.
+Banco de Dados: SQL.
 <!---->
 Ferramentas e Metodologias: Git, GitHub e SCRUM.
 
