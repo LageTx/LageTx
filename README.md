@@ -5,9 +5,11 @@ Atualmente, como Desenvolvedor Full-Stack e cursando Análise e Desenvolvimento 
 
 Front-end: JavaScript, TypeScript, React, Redux, HTML e CSS.
 <!---->
-Back-end: C#, .NET, Node.js, MVC e APIs REST.
+Back-end: C#, .NET, Node.js e APIs REST.
 <!---->
-Banco de Dados: SQL.
+Banco de Dados: MySQL.
+<!---->
+Arquiteturas: MVC.
 <!---->
 Ferramentas e Metodologias: Git, GitHub e SCRUM.
 
