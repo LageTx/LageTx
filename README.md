@@ -3,7 +3,7 @@
 <!---->
 Atualmente, como Desenvolvedor Full-Stack e cursando Análise e Desenvolvimento de Sistemas na Pontifícia Universidade Católica de Minas Gerais, lidando com a construção de aplicações de ponta a ponta e utilizando diversas tecnologias, arquiteturas e metodologias.
 
-Front-end: JavaScript, TypeScript, React, Redux, HTML e CSS.
+Front-end: JavaScript, React, HTML e CSS.
 <!---->
 Back-end: C#, .NET, Node.js e APIs REST.
 <!---->
